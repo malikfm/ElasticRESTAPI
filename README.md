@@ -1,5 +1,5 @@
 # ElasticRESTAPI
-Spring Boot REST API to Elasticsearch
+Spring Boot REST API to Elasticsearch.
 
 <br />
 <br />
